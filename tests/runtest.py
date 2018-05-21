@@ -170,6 +170,7 @@ elif api == "2.0":
         'lldp',
         'tunable',
         'system_general',
+        'system_advanced',
         'afp',
         'cronjob'
     ):
