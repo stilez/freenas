@@ -173,7 +173,8 @@ elif api == "2.0":
         'tunable',
         'system_general',
         'afp',
-        'cronjob'
+        'cronjob',
+        'rsync'
     ):
         if testName is not None and testName != i:
             continue
